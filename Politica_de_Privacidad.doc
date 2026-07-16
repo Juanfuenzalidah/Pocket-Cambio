@@ -1,0 +1,44 @@
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+  body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; }
+  h1, h2 { color: #333; }
+</style>
+</head>
+<body>
+    <h1>Política de Privacidad de Pocket Cambio</h1>
+    <p><strong>Última actualización:</strong> 15 de Julio de 2026</p>
+
+    <p>Esta Política de Privacidad describe cómo se recopila, utiliza y comparte tu información cuando utilizas la aplicación móvil <strong>Pocket Cambio</strong> (en adelante, "la Aplicación").</p>
+
+    <h2>1. Recopilación de Información y Uso</h2>
+    <p>Pocket Cambio es una herramienta de conversión de divisas. La Aplicación por sí misma <strong>no recopila, almacena ni transmite ningún dato personal identificable</strong> (como tu nombre, correo electrónico o número de teléfono) a nuestros servidores.</p>
+    
+    <h2>2. Servicios de Terceros</h2>
+    <p>Para poder brindar un servicio gratuito y mantener las tasas de cambio actualizadas, la Aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarte:</p>
+    <ul>
+        <li><strong>AdMob (Google LLC):</strong> Utilizamos AdMob para mostrar anuncios publicitarios. AdMob puede recopilar y procesar ciertos datos (como identificadores de dispositivos y datos de ubicación general) para ofrecer anuncios personalizados o no personalizados. Puedes consultar la política de privacidad de Google en: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></li>
+        <li><strong>API de Tasas de Cambio:</strong> La Aplicación se conecta a servicios públicos (como ExchangeRate-API) para obtener el valor actualizado de las monedas. Esta comunicación se realiza de forma anónima y no incluye tus datos personales.</li>
+    </ul>
+
+    <h2>3. Permisos Requeridos</h2>
+    <p>La Aplicación solicita acceso a los siguientes permisos de tu dispositivo:</p>
+    <ul>
+        <li><strong>Acceso a Internet:</strong> Estrictamente necesario para descargar las tasas de conversión más recientes y para mostrar los anuncios publicitarios.</li>
+        <li><strong>Estado de la Red:</strong> Para verificar si tienes conexión a internet antes de intentar actualizar los datos.</li>
+    </ul>
+
+    <h2>4. Seguridad</h2>
+    <p>Valoramos tu confianza al usar nuestra Aplicación. Dado que no recopilamos datos personales, no existe un riesgo directo de filtración de tu información privada a través de nuestros sistemas.</p>
+
+    <h2>5. Privacidad de los Niños</h2>
+    <p>Estos Servicios no están dirigidos a menores de 13 años. No recopilamos a sabiendas información de identificación personal de niños menores de 13 años.</p>
+
+    <h2>6. Cambios en esta Política de Privacidad</h2>
+    <p>Es posible que actualicemos nuestra Política de Privacidad de vez en cuando. Por lo tanto, te recomendamos revisar esta página periódicamente para ver si hay cambios. Te notificaremos de cualquier cambio publicando la nueva Política de Privacidad en esta página.</p>
+
+    <h2>7. Contacto</h2>
+    <p>Si tienes alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no dudes en contactarnos.</p>
+</body>
+</html>
